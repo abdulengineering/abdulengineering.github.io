@@ -6,33 +6,33 @@
             var items = [
                 {
                     src: 'assets/images/spiralStairs/1.jpg',
-                    w: 1108,
-                    h: 1637
+                    w: 728,
+                    h: 1125
                 },
                 {
                     src: 'assets/images/spiralStairs/2.jpg',
-                    w: 720,
-                    h: 1282
+                    w: 850,
+                    h: 1133
                 },
                  {
                     src: 'assets/images/spiralStairs/3.jpg',
-                    w: 450,
-                    h: 443
+                    w: 1000,
+                    h: 1000
                 },
                  {
                     src: 'assets/images/spiralStairs/4.jpg',
-                    w: 768,
-                    h: 960
+                    w: 375,
+                    h: 500
                 },
                  {
                     src: 'assets/images/spiralStairs/5.jpg',
-                    w: 236,
-                    h: 472
+                    w: 412,
+                    h: 550
                 },
                  {
                     src: 'assets/images/spiralStairs/6.jpg',
-                    w: 684,
-                    h: 1024
+                    w: 480,
+                    h: 853
                 }
             ];
 
