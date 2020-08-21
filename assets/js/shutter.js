@@ -6,23 +6,23 @@
             var items = [
                 {
                     src: 'assets/images/shutter/1.jpg',
-                    w: 1108,
-                    h: 1637
+                    w: 1266,
+                    h: 901
                 },
                 {
                     src: 'assets/images/shutter/2.jpg',
-                    w: 720,
-                    h: 1282
+                    w: 626,
+                    h: 417
                 },
                  {
                     src: 'assets/images/shutter/3.jpg',
-                    w: 450,
-                    h: 443
+                    w: 500,
+                    h: 500
                 },
                  {
                     src: 'assets/images/shutter/4.jpg',
-                    w: 768,
-                    h: 960
+                    w: 626,
+                    h: 954
                 } 
             ];
 
